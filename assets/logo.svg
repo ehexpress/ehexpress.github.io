@@ -1,12 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 180" role="img" aria-labelledby="t">
 <title id="t">EH Express Transportes</title>
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff7d55"/><stop offset="1" stop-color="#ffb077"/></linearGradient></defs>
-<g fill="url(#g)">
- <path d="M18 40h134l-18 17H18z"/><path d="M4 70h123l-17 16H4z"/><path d="M29 100h82l-15 15H29z"/>
-</g>
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff805c"/><stop offset="1" stop-color="#f2b27d"/></linearGradient></defs>
+<g fill="url(#g)"><path d="M18 40h134l-18 17H18z"/><path d="M4 70h123l-17 16H4z"/><path d="M29 100h82l-15 15H29z"/></g>
 <g font-family="Arial,Helvetica,sans-serif" font-weight="900">
- <text x="128" y="99" font-size="86" fill="#fff" font-style="italic">EH</text>
- <text x="285" y="88" font-size="48" fill="#fff">EXPRESS</text>
- <text x="287" y="124" font-size="18" fill="#d8e5e2" letter-spacing="8">TRANSPORTES</text>
-</g>
-</svg>
+<text x="128" y="99" font-size="86" fill="#fff" font-style="italic">EH</text>
+<text x="285" y="88" font-size="48" fill="#fff">EXPRESS</text>
+<text x="287" y="124" font-size="18" fill="#d8e5e2" letter-spacing="8">TRANSPORTES</text>
+</g></svg>

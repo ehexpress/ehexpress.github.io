@@ -1,14 +1,21 @@
-# EH Express Transportes
+# EH Express Transportes — WebGL Cinematic
 
-Site estático pronto para GitHub Pages.
+Versão estática pronta para GitHub Pages.
 
-## Publicar
-Envie todos os arquivos e a pasta `assets/` para a raiz do repositório `ehexpress.github.io`.
+Recursos:
+- WebGL nativo, sem bibliotecas externas
+- interação suave com o mouse
+- parallax em imagens
+- transições e animações cinematográficas
+- layout responsivo
+- acessibilidade com `prefers-reduced-motion`
+- Open Graph para prévia no WhatsApp
+- link para Google e WhatsApp
 
-Em **Settings > Pages**:
+## Publicação
+Envie `index.html`, `404.html`, `robots.txt`, `sitemap.xml` e a pasta `assets/` para a raiz do repositório `ehexpress.github.io`.
+
+Em Settings > Pages:
 - Source: Deploy from a branch
 - Branch: main
 - Folder: / (root)
-
-Endereço:
-https://ehexpress.github.io/
