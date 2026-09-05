@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<rect width="64" height="64" rx="16" fill="#082421"/>
+<path d="M8 18h24l-5 6H8zm-4 11h21l-5 6H4zm8 11h16l-5 6H12z" fill="#F07E52"/>
+<text x="28" y="43" fill="#fff" font-size="23" font-weight="900" font-family="Arial">EH</text>
+</svg>
