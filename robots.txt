@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ehexpress.github.io/sitemap.xml
